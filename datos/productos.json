@@ -1,0 +1,50 @@
+[
+    {
+        "codigo" : "Producto 01",
+        "descripcion" : "Microfono 1",
+        "imagen" : "./img/microfono01.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$3.400",
+        "puntuacion" : "★★★★"
+    },
+    {
+        "codigo" : "Producto 02",
+        "descripcion" : "Microfono 2",
+        "imagen" : "./img/microfono02.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$5.400",
+        "puntuacion" : "★★★"
+    },
+    {
+        "codigo" : "Producto 03",
+        "descripcion" : "Microfono 3",
+        "imagen" : "./img/microfono03.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$6.200",
+        "puntuacion" : "★★★★★"
+    },
+    {
+        "codigo" : "Producto 04",
+        "descripcion" : "Auricular 1",
+        "imagen" : "./img/auricular01.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$10.500",
+        "puntuacion" : "★★★★★"
+    },
+    {
+        "codigo" : "Producto 05",
+        "descripcion" : "Auricular 2",
+        "imagen" : "./img/auricular02.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$14.300",
+        "puntuacion" : "★★★★"
+    },
+    {
+        "codigo" : "Producto 06",
+        "descripcion" : "Auricular 3",
+        "imagen" : "./img/auricular03.webp",
+        "detalle" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae modi libero officia veritatis numquam explicabo id, at enim voluptates illo asperiores corporis corrupti minima vitae sit dolore esse! Magnam!",
+        "precio" : "$15.999",
+        "puntuacion" : "★★★★★"
+    }
+]
